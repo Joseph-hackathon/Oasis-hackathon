@@ -4,6 +4,8 @@
 
 **Seus** is a Web3 browser designed to provide a seamless user experience similar to Web2 browsers like Chrome, while incorporating robust privacy, security, and wallet functionality using blockchain technologies. The browser integrates **Oasis Protocol** for privacy-enhancing features and **`Apillon’s non-custodial wallet`** for managing digital assets. Seus aims to bridge the gap between Web2 and Web3 by offering familiar browsing features while safeguarding users' personal data and enabling easy management of cryptocurrency wallets with **`ERC-4337 account abstraction`**.
 
+#### [Apillon smart contract](https://github.com/Oasis-codebase/smart-contract)
+
 ## Problems
 
 1. **Lack of Privacy in Web2 Browsers**: Current Web2 browsers like Chrome store vast amounts of user data, leading to privacy concerns as data is often shared with third parties or misused without users' consent.
